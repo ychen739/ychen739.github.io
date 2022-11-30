@@ -50,10 +50,10 @@ I am a research technologist in [Xu Lab](https://www.google.com/url?sa=t&rct=j&q
 - *2021.09 - now*, Stem Cell and Neurodegenerative Diseases, advised by Prof. [Ted Dawson](https://www.hopkinsmedicine.org/profiles/details/ted-dawson) and Prof. [Jinchong Xu](https://www.hopkinsmedicine.org/profiles/details/jinchong-xu), Department of Neurology, Johns Hopkins University.
 - *2021.09 - 2022.05*, COVID-19 Resistance Prediction via Prior COVID-19 Exposure, advised by Prof. [Stuart C. Ray](https://www.hopkinsmedicine.org/profiles/details/stuart-ray) and Prof. [Casey O. Taylor](https://www.hopkinsmedicine.org/profiles/details/casey-taylor), Department of Biomedical Engineering, Johns Hopkins University.
 - *2020.04 - 2020.07*, Identifying Therapeutic Targets for Hepatitis C Virus-Infected Patients, advised by Prof. [Srikanta Dash](https://medicine.tulane.edu/departments/pathology-laboratory-medicine-tulane-cancer-center-debakey/faculty/srikanta-dash-phd) and Prof. [Yucel Aydin](https://scholar.google.com/citations?user=6WkZg4EAAAAJ&hl=en), Department of Pathology, Tulane University.
-- *2019.07 - 2020.08*, Antibacterial Activity of Chitosan Derivatives, advised by Prof. [Zhanyong Guo](https://www.researchgate.net/profile/Zhanyong-Guo-2), Chinese Academy of Sciences.
+- *2019.07 - 2019.08*, Antibacterial Activity of Chitosan Derivatives, advised by Prof. [Zhanyong Guo](https://www.researchgate.net/profile/Zhanyong-Guo-2), Chinese Academy of Sciences.
 
 # 🎨 Projects
-- *2022.03 - 2022.05*, Engineered cardiomyocytes(CM) analysis using scRNA-seq data([repo](https://github.com/zhuzhusleepearly/Engineered-Cardiomyocytes-Analysis))
+- *2022.03 - 2022.05*, Engineered cardiomyocytes(CM) analysis using scRNA-seq data([repo](https://github.com/ychen739/Engineered-Cardiomyocytes-Analysis-Using-scRNA-Seq-Data))
     - Implemented pySCN, a variant of Random Forest model for single cell identification, to determine the purity of engineered CMs using single-cell RNA-Seq data
     - Developed a Shannon entropy-based approach to match given timepoints with different batches of cells to estimate their maturities
     - Applied gene regulatory networks to identify candidate transcription factors (TFs) that could enhance differentiation
