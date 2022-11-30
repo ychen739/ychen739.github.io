@@ -44,7 +44,8 @@ I am a research technologist in [Xu Lab](https://www.google.com/url?sa=t&rct=j&q
 # 🎓 Educations
 - *2021.08 - 2022.05*, M.S.E. in Biomedical Engineering, Johns Hopkins University.  
 - *2017.09 - 2020.12*, B.Sc. in Biomedical Sciences & B.A. in Global Health, Arizona State University.   
-  Coursework: Cell Biology, Principles of Biochemistry, Developmental Biology, Immunology: Molecular & Cellular Foundations, Cellular Engineering, Cancer-Mother of All Diseases, General Genetics, Evolution, Animal Physiology, Forensic Anthropology, Elementary Organic Chemistry, General Chemistry, Precision Care Medicine, Computational Stem Cell Biology, Introduction to Data Science, Elements of Statistics, Computer Applications & Information Technology, Calculus w/ Analytic Geometry, General Physics, Bioethics, Food and Human Health, Applied Research and Grant Methodology, etc.
+
+Coursework: Cell Biology, Principles of Biochemistry, Developmental Biology, Immunology: Molecular & Cellular Foundations, Cellular Engineering, Cancer-Mother of All Diseases, General Genetics, Evolution, Animal Physiology, Forensic Anthropology, Elementary Organic Chemistry, General Chemistry, Precision Care Medicine, Computational Stem Cell Biology, Introduction to Data Science, Elements of Statistics, Computer Applications & Information Technology, Calculus w/ Analytic Geometry, General Physics, Bioethics, Food and Human Health, Applied Research and Grant Methodology, etc.
 
 # 🧬 Research
 - *2021.09 - now*, Stem Cell and Neurodegenerative Diseases, advised by Prof. [Ted Dawson](https://www.hopkinsmedicine.org/profiles/details/ted-dawson) and Prof. [Jinchong Xu](https://www.hopkinsmedicine.org/profiles/details/jinchong-xu), Department of Neurology, Johns Hopkins University.
